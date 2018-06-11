@@ -5,6 +5,7 @@ object Demo{
         var sum: Int = add(num1,num2);
         loop(sum);
         println(sum);
+        
     }
     def add(a: Int, b: Int): Int = {
         return a+b;
@@ -13,7 +14,14 @@ object Demo{
         var i: Int = 0;
         for(i <- 1 to iteration) {
             println(i);
+            checkForEvenNumber(i);
         }
-        
+    }
+    def checkForEvenNumber(num: Int) {
+        var evenNumber: Int = 0;
+        if(num % 2 == 0) {
+            evenNumber = num;
+            println("Even number : "+evenNumber);
+        }
     }
 }
