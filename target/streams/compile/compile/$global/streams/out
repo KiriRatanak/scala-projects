@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbookpro/Documents/Programming/Scala_projects/scala/test.scala:13:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval greeter = new Greeter();[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbookpro/Documents/Programming/Scala_projects/scala/test.scala:17:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mgreeter.Demo.SayHi("Noob");[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbookpro/Documents/Programming/Scala_projects/scala/test3.scala:15:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval iae = new ifAsExpression();[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
